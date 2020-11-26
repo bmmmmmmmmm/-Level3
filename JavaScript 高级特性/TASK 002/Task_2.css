@@ -1,0 +1,13 @@
+#bigDiv {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    height: 400px;
+}
+
+#bigDiv div {
+    width: 10px;
+    background-color: red;
+    /* float: left; */
+    margin: 0 1px;
+}
